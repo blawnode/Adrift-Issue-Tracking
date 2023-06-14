@@ -3,6 +3,11 @@ A public issue tracker for our game, Adrift.
 
 (Made by Blawnode, redsti, and NoStereo, in addition to past work from Nazsgull, KingKelpo and sound_digitator.)
 
+<p align="center">
+  <img src="https://github.com/blawnode/Adrift-Issue-Tracking/blob/main/Adrift%20Thumbnail%20Pixels%20LARGE.png?raw=true"
+    height="300"/>
+</p>
+
 <br/>
 
 ## Want to suggest a change? A feature? Maybe report a bug?
